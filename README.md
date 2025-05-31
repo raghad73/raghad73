@@ -1,7 +1,8 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+
+<img alt="GIF" align="right" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280">
 <l>
   Hi There I'm Raghad Barhoum
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </l>
 <p>
 I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
