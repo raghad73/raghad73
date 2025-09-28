@@ -6,8 +6,8 @@ I'm a software developer with a strong passion for creating visually appealing a
 
 - 👨‍💻 I’m currently working on UI/UX development technologies like Figma.
 - 👨‍💻 I’m currently working on web development technologies like JavaScript & React.
-- 📚 I’m currently learning about Building mobile apps with Flutter technologies.
-- 🎯 Future Goals: Learn more web technologies - Create awesome websites.
+- 📚 I’m currently learning about AI technologies.
+- 🎯 Future Goals: Learn more web technologies and learning about Building mobile apps with Flutter technologies - Create awesome websites.
   
 - 📫 Social links
 <p>
